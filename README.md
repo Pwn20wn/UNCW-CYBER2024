@@ -2,7 +2,7 @@
 Files and URLs that will be used to follow along for the workshop
 
 ## Download the XZ-Utils scanner from Jfrog & follow steps
-https://github.com/jfrog/cve-2024-3094-tools/tree/main/cve-2024-3094-detector
+Follow steps from this blog: https://medium.com/@DCSO_CyTec/xz-backdoor-how-to-check-if-your-systems-are-affected-fb169b638271#:~:text=Affected%20XZ%20Versions,stable%20versions%20of%20Linux%20distributions.
 
 ## Google Document with Steps for Enabling Guard Duty 
 
