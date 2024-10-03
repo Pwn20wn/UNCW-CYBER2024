@@ -1,7 +1,7 @@
 # UNCW-CYBER2024
 Files and URLs that will be used to follow along for the workshop
 
-##Download the XZ-Utils scanner from Jfrog & follow steps
+## Download the XZ-Utils scanner from Jfrog & follow steps
 https://github.com/jfrog/cve-2024-3094-tools/tree/main/cve-2024-3094-detector
 
 ## Google Document with Steps for Enabling Guard Duty 
